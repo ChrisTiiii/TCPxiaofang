@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">三棱集团</string>
+    <string name="open_one">开启一号箱</string>
+    <string name="open_two">开启二号箱</string>
+    <string name="open_three">开启三号箱</string>
+    <string name="open_four">开启四号箱</string>
+
+    <string name="bottom">"@COPYRIGHT BY 三棱科技"</string>
+
+    <string-array name="options">
+        <item>在线求助</item>
+        <item>应急开门</item>
+        <item>签到巡逻</item>
+        <item>隐患处理</item>
+        <item>我的消息</item>
+        <item>培训活动</item>
+        <item>智能消防站管理</item>
+        <item>个人中心</item>
+        <item>授权中心</item>
+    </string-array>
+
+    <string-array name="hao_use">
+        <item>干粉灭火器使用方法</item>
+        <item>泡沫灭火器使用方法</item>
+        <item>二氧化碳灭火器</item>
+        <item>除颤仪使用方法</item>
+        <item>消防水带，水枪</item>
+        <item>呼吸防毒面具</item>
+        <item>灭火毯</item>
+    </string-array>
+    
+    <string name="use_ganfen">
+          使用泡沫灭火器时应该注意，人要站在上风处，尽量靠近火源，因为它的喷射距离只有2~3米，要从火势蔓延最危险的一边喷起，然后逐渐移动，注意不要留下火星。手要握住喷嘴木柄，以免被冻伤。因为二氧化碳在空气中的含量过多，对人体也是不利的，所以在空气不畅通的场合，喷射后应立即通风。
+    </string>
+
+    <string name="mac_sanleng"></string>
+
+</resources>
